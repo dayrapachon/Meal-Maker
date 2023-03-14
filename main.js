@@ -50,15 +50,15 @@ let menu = {
 		}
 	};
 	
-	menu.addDishToCourse('appetizers', 'Easy Beer Bread', 10);
+	menu.addDishToCourse('appetizers', 'steak', 10);
 	menu.addDishToCourse('mains', 'Chicken Soup', 15);
-	menu.addDishToCourse('desserts', 'Banana Split', 5);
+	menu.addDishToCourse('desserts', 'Salad', 5);
 
 	menu.addDishToCourse('appetizers', 'Pizza Rolls', 7);
 	menu.addDishToCourse('mains', 'Fried Chicken', 17);
-	menu.addDishToCourse('desserts', 'Brownie', 6);
+	menu.addDishToCourse('desserts', 'Pasta', 6);
 
-	menu.addDishToCourse('appetizers', 'Reuben Roll Ups', 12);
+	menu.addDishToCourse('appetizers', 'Cookies', 12);
 	menu.addDishToCourse('mains', 'Pizza', 20);
 	menu.addDishToCourse('desserts', 'Cake', 7);
 
